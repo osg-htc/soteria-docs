@@ -1,0 +1,12 @@
+site_name: Soteria Docs
+
+nav:
+  - Home: index.md
+  - Get Started: get-started.md
+  - Users:
+      - Affiliate: users/affiliate.md
+      - Member: users/member.md
+      - Researcher: users/researcher.md
+
+
+
