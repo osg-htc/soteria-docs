@@ -59,7 +59,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#welcome-to-mkdocs" class="md-skip">
+        <a href="#welcome-to-soterias-documentation" class="md-skip">
           Skip to content
         </a>
       
@@ -200,15 +200,22 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#commands" class="md-nav__link">
-    Commands
+  <a href="#about" class="md-nav__link">
+    About
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#project-layout" class="md-nav__link">
-    Project layout
+  <a href="#availability" class="md-nav__link">
+    Availability
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technologies" class="md-nav__link">
+    Technologies
   </a>
   
 </li>
@@ -265,6 +272,18 @@
   
   
     <li class="md-nav__item">
+      <a href="users/" class="md-nav__link">
+        Overview
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
       <a href="users/affiliate/" class="md-nav__link">
         Affiliate
       </a>
@@ -302,6 +321,48 @@
   
 
     
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      <label class="md-nav__link" for="__nav_4">
+        Projects
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Projects" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Projects
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="projects/" class="md-nav__link">
+        Overview
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
   </ul>
 </nav>
                   </div>
@@ -327,15 +388,22 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#commands" class="md-nav__link">
-    Commands
+  <a href="#about" class="md-nav__link">
+    About
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#project-layout" class="md-nav__link">
-    Project layout
+  <a href="#availability" class="md-nav__link">
+    Availability
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technologies" class="md-nav__link">
+    Technologies
   </a>
   
 </li>
@@ -353,21 +421,59 @@
               
                 
                 
-                <h1 id="welcome-to-mkdocs">Welcome to MkDocs</h1>
-<p>For full documentation visit <a href="https://www.mkdocs.org">mkdocs.org</a>.</p>
-<h2 id="commands">Commands</h2>
+                <h1 id="welcome-to-soterias-documentation">Welcome to Soteria's Documentation</h1>
+<p>If you know what Soteria is about and are eager to begin you can <a href="get-started/">get started</a>.</p>
+<h2 id="about">About</h2>
+<p>Soteria is a <a href="">Container Registry</a> for open science dedicated to advance three areas:</p>
 <ul>
-<li><code>mkdocs new [dir-name]</code> - Create a new project.</li>
-<li><code>mkdocs serve</code> - Start the live-reloading docs server.</li>
-<li><code>mkdocs build</code> - Build the documentation site.</li>
-<li><code>mkdocs -h</code> - Print help message and exit.</li>
+<li>
+<p><strong>Discoverability</strong>:</p>
+<ul>
+<li>Make images easy-to-cite and generate reasonable metadata 
+  (such as funding agencies and grant #s) for creation of DOIs and archival.</li>
 </ul>
-<h2 id="project-layout">Project layout</h2>
-<pre><code>mkdocs.yml    # The configuration file.
-docs/
-    index.md  # The documentation homepage.
-    ...       # Other markdown pages, images and other files.
-</code></pre>
+</li>
+<li>
+<p><strong>Visibility</strong>:</p>
+<ul>
+<li>Communicate the contents of the container easily? This includes
+  advertising the software discovered, such as the system RPMs and known vulnerabilities</li>
+</ul>
+</li>
+<li>
+<p><strong>Traceability</strong>:</p>
+<ul>
+<li>For security response, track what containers are used at which NSF resources.</li>
+</ul>
+</li>
+</ul>
+<h2 id="availability">Availability</h2>
+<p>Soteria will be available to any US-based researcher and their collaborators.</p>
+<h2 id="technologies">Technologies</h2>
+<ul>
+<li>
+<p><a href="https://incommon.org/software/comanage/">COmanage</a> </p>
+<ul>
+<li>Soteria uses an <a href="https://osg-htc.org">OSG</a> instance of 
+  <a href="https://incommon.org/software/comanage/">COmanage</a> to track 
+  user eligibility and status, as well as administer several 
+  registration workflows.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://goharbor.io/">Harbor</a></p>
+<ul>
+<li>Soteria uses an <a href="https://osg-htc.org">OSG</a> instance of 
+  <a href="https://goharbor.io/">Harbor</a> to manage the container repositories.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://orcid.org/">ORCiD</a></p>
+<ul>
+<li>Soteria uses ORCID iD's to identify each of our users and there work on Soteria.</li>
+</ul>
+</li>
+</ul>
                 
               
               
