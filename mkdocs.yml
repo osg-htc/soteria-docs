@@ -4,9 +4,13 @@ nav:
   - Home: index.md
   - Get Started: get-started.md
   - Users:
+      - Overview: users/index.md
       - Affiliate: users/affiliate.md
       - Member: users/member.md
       - Researcher: users/researcher.md
+  - Projects:
+      - Overview: projects/index.md
 
-
+markdown_extensions:
+  - admonition
 
