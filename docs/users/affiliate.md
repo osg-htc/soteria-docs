@@ -10,6 +10,8 @@ Anyone with a ORCID iD can register to be an Affiliate!
 
 ### Steps
 
+1. Enroll your UW
+
 All Affiliate registration begins on the [Registration Page](). All steps on that page are documented below, so be
 sure to return here if you get lost. 
 
