@@ -1,9 +1,5 @@
 # Welcome to Soteria's Documentation
 
-If you know what Soteria is about and are eager to begin you can [get started](get-started.md).
-
-## About
-
 Soteria is a [Container Registry]() for open science dedicated to advance three areas:
 
 - __Discoverability__:
