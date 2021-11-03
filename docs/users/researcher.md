@@ -17,24 +17,24 @@ Before completing the Researcher application form please confirm both of the fol
     - Lookup institutions here: [https://www.nsf.gov/statistics/srvyfedsupport](https://www.nsf.gov/statistics/srvyfedsupport)
 2. __One of the following applies__:
     - Active XRAC allocation
-      - The user has an active XRAC allocation.
-      - No additional information needed for verification.
+        - The user has an active XRAC allocation.
+        - No additional information needed for verification.
     - Institute Member and Recently Published
-      - Researcher is listed as faculty or scientist/researcher in a department at the institution 
+        - Researcher is listed as faculty or scientist/researcher in a department at the institution 
           on an institutional website AND they have a publication from within the last 2 years listed 
           in their public ORC ID profile. 
-      - Website URL and Publication DOI required for verification.
+        - Website URL and Publication DOI required for verification.
     - Active Federal Grant on ORCID Profile
-      - Researcher is listed as having an active grant through that institution from a US federal 
-      government funding agency AND the grant shows up in their public ORC ID profile.
-      - Grant # and Funding Agency required for approval.
+        - Researcher is listed as having an active grant through that institution from a US federal 
+          government funding agency AND the grant shows up in their public ORC ID profile.
+        - Grant # and Funding Agency required for approval.
     - Non R1, HBCU, or TCU institute member
-      - Researcher is listed as faculty or scientist/researcher in a department at the institution on 
-      an institutional website AND the institution is non-R1, HBCU, or TCU.  
-      - Website URL of institution staff page, and institution classification required for verification.
+        - Researcher is listed as faculty or scientist/researcher in a department at the institution on 
+          an institutional website AND the institution is non-R1, HBCU, or TCU.  
+        - Website URL of institution staff page, and institution classification required for verification.
     - SOTERIA PI approval
-      - Exemption from the above approved by SOTERIA PI.
-      - No additional information needed for verification.
+        - Exemption from the above approved by SOTERIA PI.
+        - No additional information needed for verification.
       
 ### Timeline
 
