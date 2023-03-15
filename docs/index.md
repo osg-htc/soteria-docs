@@ -30,5 +30,5 @@ Soteria will be available to any US-based researcher and their collaborators.
       [Harbor](https://goharbor.io/) to manage the container repositories.
       
 - [ORCiD](https://orcid.org/)
-    - Soteria uses ORCID iD's to identify each of our users and there work on Soteria.
+    - Soteria uses ORCID iD's to identify each of our users and their work on Soteria.
     
