@@ -1,5 +1,8 @@
 site_name: Soteria Docs
 
+theme:
+  name: material
+
 nav:
   - Home: index.md
   - Get Started: get-started.md

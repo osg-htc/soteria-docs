@@ -69,12 +69,43 @@ Each project will get three corresponding OSG groups created with the verified r
 
 ## Actions
 
-- [Sponsor a Soteria Member](#sponsor-a-soteria-member)
-    - Gives the Member one of various [permissions](#permissions) to your project
+- [Create a Project](#create-a-project)
+
     
-- [Request Additional Project Allocation](#request-additional-project-allocation)
-    - Provides the Researcher with an additional project with PI approval
+- [Managing Project Members](#adding-project-members)
 
-### Sponsor a Soteria Member
+### Create a Project
 
-### Request Additional Project Allocation
+All researchers can create project up to the base allocation. All projects after that will need to be created by OSG 
+staff on request. 
+
+On creation of the project the researcher will find they own 3 new permission groups in COmanage as [highlighted above](#permissions).
+It is here that you will allow new users to use your project. Additional management can be found in the 
+
+### Managing Project Members
+
+Project member management is orchestrated using your groups [COmanage app](https://registry.cilogon.org/registry/co_groups/index/co:8/search.member:1/search.owner:1). 
+
+On opening your groups tab you will find 4 groups for each project:
+
+- soteria-<project-name\>-owners
+- soteria-<project-name\>-maintainers
+- soteria-<project-name\>-developers
+- soteria-<project-name\>-guests
+
+!!! note
+
+    soteria-<project-name\>-owners is used by Soteria Staff to keep track of researchers project allocations and is not editable by the reearcher.
+
+In the actions column of the respective group you can click the 'Members' button to be taken to the group management table.
+Above the table to the right you will find a 'Add member:' input box where you can look for __members of your team that have previously registered for Soteria.__ 
+
+
+On adding them to this group they will find that the next time they log into Harbor they will now have the expected access
+to the project. 
+
+
+
+
+
+
