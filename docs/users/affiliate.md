@@ -10,10 +10,12 @@ Anyone with a ORCID iD can register to be an Affiliate!
 
 ### Steps
 
-1. Enroll your UW
+1. Go to the [Soteria Registration](https://soteria.osg-htc.org/registration) page and sign in with your preferred SSO. 
 
-All Affiliate registration begins on the [Registration Page](). All steps on that page are documented below, so be
-sure to return here if you get lost. 
+1. Follow the steps on page to get a private Soteria project. 
+
+1. Begin hosting your container images on Harbor!
+
 
 ## Projects
 
@@ -23,7 +25,7 @@ Researcher status comes with advanced project allocations.
 
 | Size  | # of Public | # of Private | Timeline |
 |-------|-------------|--------------|----------|
-| 5GB   | 3           | 2            | 30 Days  |
+| 5GB   | 0           | 1            | 30 Days  |
 
 ## Actions
 

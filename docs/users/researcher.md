@@ -13,7 +13,7 @@ for a verified researcher role in the Soteria COU.
 
 Before completing the Researcher application form please confirm both of the following applies.
 
-1. __Researcher email address is associated with a US university or researcher institution that receives federal funding.__  
+1. __Researcher email address is associated with a US university or research institution that receives federal funding.__  
     - Lookup institutions here: [https://www.nsf.gov/statistics/srvyfedsupport](https://www.nsf.gov/statistics/srvyfedsupport)
 2. __One of the following applies__:
     - Active XRAC allocation
