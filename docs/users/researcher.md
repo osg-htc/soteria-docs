@@ -93,16 +93,40 @@ On opening your groups tab you will find 4 groups for each project:
 - soteria-<project-name\>-developers
 - soteria-<project-name\>-guests
 
+Each of these 4 groups corresponds to a [Harbor User Permission Level](https://goharbor.io/docs/1.10/administration/managing-users/user-permissions-by-role/).
+By adding a member to one of these groups you will be providing them with the corresponding level of access to the indicated project.
+
 !!! note
 
-    soteria-<project-name\>-owners is used by Soteria Staff to keep track of researchers project allocations and is not editable by the reearcher.
+    soteria-<project-name\>-owners is used by Soteria Staff to keep track of researchers project allocations and is not editable by the researcher.
 
-In the actions column of the respective group you can click the 'Members' button to be taken to the group management table.
-Above the table to the right you will find a 'Add member:' input box where you can look for __members of your team that have previously registered for Soteria.__ 
+#### Adding a Member to a Project
 
+1. Have the member register for Soteria
 
-On adding them to this group they will find that the next time they log into Harbor they will now have the expected access
-to the project. 
+    [Register for Soteria](https://soteria.osg-htc.org/registration)
+
+1. Decide the level of Project access you would like to provide them with (maintainer, developer, guest)
+
+    [Harbor User Permission Levels](https://goharbor.io/docs/1.10/administration/managing-users/user-permissions-by-role/)
+
+1. Find the corresponding group in COmanage
+
+    1. Navigate to the COmanage Group page to see your groups
+
+        [COmanage User Group Page](https://registry.cilogon.org/registry/co_groups/index/co:8/search.member:1/search.owner:1)
+
+    1. Find the permission group relating to the project and access level
+
+        The group name will be soteria-<project-name\>-<access-level\>
+
+    1. Click "Members" under the actions column
+
+    1. Search for the new member in the "Add Member:" search bar and click "ADD"
+
+    1. (Optional) If you would like this new member to manage members of this group you can toggle the "owner" checkbox
+
+1. Have the new member re log into harbor for the new access level to take effect
 
 
 
