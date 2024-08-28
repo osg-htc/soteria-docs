@@ -6,7 +6,7 @@ for a verified researcher role in the Soteria COU.
 ### Steps
 
 1. Find the requirements that you meet [below](#requirements).
-1. Fill out the application [form](http://soteria.osg.chtc.io/account) on your account page, found under actions.
+1. Fill out the application [form](http://soteria.osg-htc.org/account) on your account page, found under actions.
 1. Wait for your approval. We will create a ticket, and follow up with any further questions by email.
 
 ### Requirements
